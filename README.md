@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Matthieu 👋
+
+I am a developer passionate about helping others **create**.
+
+I work on that through open-source projects, [consulting](https://null.tc/), [conference talks](https://mnapoli.fr/presentations/) and more. Company sponsorships help me make open-source sustainable: [sponsor my work](https://github.com/sponsors/mnapoli).
+
+#### Serverless course
+
+Serverless technologies give developers superpowers to host and scale applications. If you want to get started with serverless, check out my course:
+
+**[serverless-visually-explained.com](https://serverless-visually-explained.com/)**
 
 <!--
 **mnapoli/mnapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
