@@ -8,7 +8,13 @@ I work on that through open-source projects, [consulting](https://null.tc/), [co
 
 Serverless technologies give developers superpowers to host and scale applications. If you want to get started with serverless, check out my course:
 
-**[serverless-visually-explained.com](https://serverless-visually-explained.com/)**
+✨ **[serverless-visually-explained.com](https://serverless-visually-explained.com/)** ✨
+
+#### Links
+
+- Twitter: [@matthieunapoli](https://twitter.com/matthieunapoli)
+- Let's work together: [null](https://null.tc/)
+- Serverless + PHP newsletter: [serverless-php.news](https://serverless-php.news/)
 
 <!--
 **mnapoli/mnapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
