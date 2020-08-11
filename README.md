@@ -8,7 +8,7 @@ I work on that through open-source projects, [consulting](https://null.tc/), [co
 
 Serverless technologies give developers superpowers to host and scale applications. If you want to get started with serverless, check out my course:
 
-✨ **[serverless-visually-explained.com](https://serverless-visually-explained.com/)** ✨
+✨ **[serverless-visually-explained.com](https://serverless-visually-explained.com/?utm_source=github_profile)** ✨
 
 #### Links
 
