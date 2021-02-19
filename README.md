@@ -2,7 +2,7 @@
 
 I am a developer passionate about helping others **create**.
 
-I work on that through open-source projects, [consulting](https://null.tc/), [conference talks](https://mnapoli.fr/presentations/) and more. Company sponsorships help me make open-source sustainable: [sponsor my work](https://github.com/sponsors/mnapoli).
+I work on that through open-source projects like [**Bref**](https://bref.sh/), [consulting](https://null.tc/), [conference talks](https://mnapoli.fr/presentations/) and more. Company sponsorships help me make open-source sustainable: [sponsor my work](https://github.com/sponsors/mnapoli).
 
 #### Serverless course
 
