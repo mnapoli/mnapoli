@@ -2,7 +2,7 @@
 
 I am a developer passionate about helping others **create**.
 
-I work on that through open-source projects like [**Bref**](https://bref.sh/), [consulting](https://null.tc/), [conference talks](https://mnapoli.fr/presentations/) and more. Company sponsorships help me make open-source sustainable: [sponsor my work](https://github.com/sponsors/mnapoli).
+I work on [**Lift**](https://github.com/getlift/lift) at [Serverless](https://www.serverless.com/), as well as [**Bref**](https://bref.sh/), [conference talks](https://mnapoli.fr/presentations/) and more.
 
 #### Serverless course
 
@@ -13,9 +13,9 @@ Serverless technologies give developers superpowers to host and scale applicatio
 #### Links
 
 - Twitter: [@matthieunapoli](https://twitter.com/matthieunapoli)
-- Let's work together: [null](https://null.tc/)
 - Serverless + PHP newsletter: [serverless-php.news](https://serverless-php.news/)
 - [7777](https://port7777.com/)
+<!-- - Let's work together: [null](https://null.tc/) -->
 
 <!--
 **mnapoli/mnapoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
