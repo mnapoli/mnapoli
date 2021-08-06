@@ -1,8 +1,8 @@
 ### Hi, I'm Matthieu 👋
 
-I am a developer passionate about helping others **create**.
+I try to make serverless more accessible to everyone.
 
-I work on [**Lift**](https://github.com/getlift/lift) at [Serverless](https://www.serverless.com/), as well as [**Bref**](https://bref.sh/), [conference talks](https://mnapoli.fr/presentations/) and more.
+I work on the [**Serverless Framework**](https://github.com/serverless/serverless) and [**Lift**](https://github.com/getlift/lift) at [Serverless](https://www.serverless.com/), as well as [**Bref**](https://bref.sh/) on my own time.
 
 #### Serverless course
 
