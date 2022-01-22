@@ -8,13 +8,14 @@ I work on the [**Serverless Framework**](https://github.com/serverless/serverles
 
 Serverless technologies give developers superpowers to host and scale applications. If you want to get started with serverless, check out my course:
 
-✨ **[serverless-visually-explained.com](https://serverless-visually-explained.com/?utm_source=github_profile)** ✨
+✨ **[serverless-visually-explained.com](https://serverless-visually-explained.com/?ref=github_profile)** ✨
 
 #### Links
 
 - Twitter: [@matthieunapoli](https://twitter.com/matthieunapoli)
 - Serverless + PHP newsletter: [serverless-php.news](https://serverless-php.news/)
-- [7777](https://port7777.com/)
+- [7777](https://port7777.com/): connect to RDS databases
+- [Madame Yams](https://madame-yams.com/?ref=github): an online game I built
 <!-- - Let's work together: [null](https://null.tc/) -->
 
 <!--
