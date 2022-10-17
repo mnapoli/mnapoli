@@ -2,7 +2,9 @@
 
 I try to make serverless more accessible to everyone.
 
-I work on the [**Serverless Framework**](https://github.com/serverless/serverless) and [**Lift**](https://github.com/getlift/lift) at [Serverless](https://www.serverless.com/), as well as [**Bref**](https://bref.sh/) on my own time.
+I build and maintain [**Bref**](https://bref.sh/), as well as other open-source projects like [**Lift**](https://github.com/getlift/lift).
+
+I previously was working on the [**Serverless Framework**](https://github.com/serverless/serverless) at [Serverless](https://www.serverless.com/).
 
 #### Serverless course
 
