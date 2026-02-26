@@ -2,9 +2,7 @@
 
 I try to make serverless more accessible to everyone.
 
-I build and maintain [**Bref**](https://bref.sh/), the [**Bref Dashboard**](https://dashboard.bref.sh/), as well as other open-source projects like [**Lift**](https://github.com/getlift/lift).
-
-I previously was working on the [Serverless Framework](https://github.com/serverless/serverless) at [Serverless](https://www.serverless.com/).
+I build and maintain [**Bref**](https://bref.sh/) as well as other open-source projects like [**Lift**](https://github.com/getlift/lift) or [**osls**](https://github.com/oss-serverless/serverless).
 
 #### Serverless course
 
@@ -15,7 +13,8 @@ Serverless technologies give developers superpowers to host and scale applicatio
 #### Links
 
 - Twitter: [@matthieunapoli](https://twitter.com/matthieunapoli)
-- Serverless + PHP newsletter: [serverless-php.news](https://serverless-php.news/)
+- [Watch AWS Lambda scale)(https://watch-aws-lambda-scale.com/)
+- [favicon.show](https://favicon.show/)
 - [7777](https://port7777.com/): connect to RDS databases
 - [Madame Yams](https://madame-yams.com/?ref=github): an online game I built
 <!-- - Let's work together: [null](https://null.tc/) -->
