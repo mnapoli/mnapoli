@@ -13,7 +13,7 @@ Serverless technologies give developers superpowers to host and scale applicatio
 #### Links
 
 - Twitter: [@matthieunapoli](https://twitter.com/matthieunapoli)
-- [Watch AWS Lambda scale)(https://watch-aws-lambda-scale.com/)
+- [Watch AWS Lambda scale](https://watch-aws-lambda-scale.com/)
 - [favicon.show](https://favicon.show/)
 - [7777](https://port7777.com/): connect to RDS databases
 - [Madame Yams](https://madame-yams.com/?ref=github): an online game I built
